@@ -1,4 +1,4 @@
-console.log("TheGoldenHecker#7777");
+console.log(");
 
 let counter = 0; let Title = 'TheGoldenHecker#7777'; let direction = true;
 aniTitle = setInterval(function () {
